@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nirman-react-building-blocks/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nirman-react-building-blocks/static/js/main.e78c2fbb.chunk.js",
+    "main.js.map": "/nirman-react-building-blocks/static/js/main.e78c2fbb.chunk.js.map",
+    "runtime-main.js": "/nirman-react-building-blocks/static/js/runtime-main.c4f6b375.js",
+    "runtime-main.js.map": "/nirman-react-building-blocks/static/js/runtime-main.c4f6b375.js.map",
+    "static/js/2.c318b5f8.chunk.js": "/nirman-react-building-blocks/static/js/2.c318b5f8.chunk.js",
+    "static/js/2.c318b5f8.chunk.js.map": "/nirman-react-building-blocks/static/js/2.c318b5f8.chunk.js.map",
+    "index.html": "/nirman-react-building-blocks/index.html",
+    "precache-manifest.080d4c497e748e001af0ce8835053136.js": "/nirman-react-building-blocks/precache-manifest.080d4c497e748e001af0ce8835053136.js",
+    "service-worker.js": "/nirman-react-building-blocks/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nirman-react-building-blocks/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c318b5f8.chunk.js.LICENSE.txt": "/nirman-react-building-blocks/static/js/2.c318b5f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4f6b375.js",
+    "static/js/2.c318b5f8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e78c2fbb.chunk.js"
+  ]
+}
